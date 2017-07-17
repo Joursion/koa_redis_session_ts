@@ -1,0 +1,29 @@
+{
+  "name": "koa_redis_session_ts",
+  "version": "1.0.0",
+  "description": "A session middlreware for koa@2.x by redis.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joursion/koa_redis_session_ts.git"
+  },
+  "keywords": [
+    "redis",
+    "typescript",
+    "koa"
+  ],
+  "author": "Joursion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joursion/koa_redis_session_ts/issues"
+  },
+  "homepage": "https://github.com/Joursion/koa_redis_session_ts#readme"
+}
